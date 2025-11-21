@@ -1,4 +1,4 @@
-# GI Assets
+# GI Assetsc
 
 A collection of Anime Game Character Model & Texture files!
 
